@@ -1,0 +1,9 @@
+Package: me.kritanta.calypso
+Name: Calypso
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Cause and Effect
+Maintainer: Kritanta
+Author: Kritanta
+Section: Tweaks
